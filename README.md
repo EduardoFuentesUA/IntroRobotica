@@ -1,8 +1,12 @@
 # IntroRobotica
 
-Material descargable de las guías de robótica de la **Universidad Autónoma de
-Chile**: los libros en PDF, el código de Arduino y Python, los modelos 3D y las
-plantillas de cálculo.
+Hola a todos!
+Soy Eduardo Fuentes, docente de la **Universidad Autónoma de
+Chile**.
+
+Este es un repositorio vivo en donde habrán guías, plantillas, código e información general de robótica.
+
+Espero esto les sirva a todos!
 
 Todo es de descarga libre. Para bajar el repositorio completo usa el botón
 verde **Code → Download ZIP**; no necesitas una cuenta de GitHub. También
