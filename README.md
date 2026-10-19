@@ -1,4 +1,4 @@
-# UA_Robótica
+# IntroRobotica
 
 Material descargable de las guías de robótica de la **Universidad Autónoma de
 Chile**: los libros en PDF, el código de Arduino y Python, los modelos 3D y las
@@ -18,7 +18,7 @@ puedes abrir cualquier archivo y descargarlo por separado.
 ## Contenido
 
 ```
-UA_Robotica/
+IntroRobotica/
 ├── guia-1-introduccion-a-la-robotica/
 │   ├── Introduccion-a-la-Robotica.pdf
 │   ├── codigo/          programas para el NodeMCU ESP8266 (Capítulos 5 y 6)
