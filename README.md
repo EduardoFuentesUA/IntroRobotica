@@ -16,7 +16,7 @@ puedes abrir cualquier archivo y descargarlo por separado.
 
 | # | Guía | De qué trata | Descarga |
 |---|---|---|---|
-| 1 | **Introducción a la Robótica** | Un robot futbolista controlado por Bluetooth: diseño CAD, impresión 3D, electrónica, NodeMCU ESP8266 y App Inventor | [PDF](guia-1-introduccion-a-la-robotica/Introduccion-a-la-Robotica.pdf) · [archivos](guia-1-introduccion-a-la-robotica/) |
+| 1 | **Introducción a la Robótica** | Un robot seguidor de línea con control PID, controlable por Bluetooth: diseño CAD, impresión 3D, electrónica, NodeMCU ESP8266 y App Inventor | [PDF](guia-1-introduccion-a-la-robotica/Introduccion-a-la-Robotica.pdf) · [archivos](guia-1-introduccion-a-la-robotica/) |
 | 2 | **Robots Articulados** | Brazos robóticos de 2, 3 y 4 grados de libertad: cinemática directa e inversa, actuadores y control por serial con Python y Arduino | [PDF](guia-2-robots-articulados/Robots-Articulados.pdf) · [archivos](guia-2-robots-articulados/) |
 
 ## Contenido
@@ -25,7 +25,7 @@ puedes abrir cualquier archivo y descargarlo por separado.
 IntroRobotica/
 ├── guia-1-introduccion-a-la-robotica/
 │   ├── Introduccion-a-la-Robotica.pdf
-│   ├── codigo/          programas para el NodeMCU ESP8266 (Capítulos 5 y 6)
+│   ├── codigo/          seguidor de línea con PID para el NodeMCU ESP8266 (Capítulo 7)
 │   ├── app/             app de control de MIT App Inventor (.aia y .apk)
 │   └── chasis/          modelos STL del chasis del autor
 └── guia-2-robots-articulados/

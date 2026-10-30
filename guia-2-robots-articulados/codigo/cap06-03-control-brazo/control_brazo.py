@@ -25,7 +25,8 @@ def buscar_puerto():
     """Devuelve el primer puerto que parezca una placa Arduino."""
     for puerto in serial.tools.list_ports.comports():
         descripcion = (puerto.description or "").lower()
-        if "arduino" in descripcion or "ch340" in descripcion:
+        if any(marca in descripcion
+               for marca in ("arduino", "ch340", "ch910", "cp210", "ftdi")):
             return puerto.device
     return None
 
